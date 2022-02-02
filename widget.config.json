@@ -1,0 +1,16 @@
+{
+  "packageId": "wpkmiCRoAAAFp",
+  "spaceId": "spcEAJMqA6B7L",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "ExpandView",
+    "en-US": "ExpandView"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "ExpandView 的描述",
+    "en-US": "ExpandView description"
+  }
+}
