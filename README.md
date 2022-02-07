@@ -4,13 +4,13 @@
 
 ## 如何使用
 经常会遇到有些不常用，不连续的字段藏在靠后的位置，经常需要反复横向滚动查阅
-[img1](https://s1.vika.cn/space/2022/02/07/075b228af0a04103abaef898b6294a8b)
+![Image img1](https://s1.vika.cn/space/2022/02/07/075b228af0a04103abaef898b6294a8b)
 
 安装小程序后全屏配置需要查看的字段
-[img2](https://s1.vika.cn/space/2022/02/07/896cd61733be4501bf27ea4db573d8db)
+![Image img2](https://s1.vika.cn/space/2022/02/07/896cd61733be4501bf27ea4db573d8db)
 
 单击记录，即可显示该条记录已选字段的值
-[img3](https://s1.vika.cn/space/2022/02/07/0e2edbf9b2a14563b9673f08ff335981)
+![Image img3](https://s1.vika.cn/space/2022/02/07/0e2edbf9b2a14563b9673f08ff335981)
 
 ## 备注
 初学代码和vika小程序，暂时只提供了 5 项字段的配置，遇到问题和建议可以留，后续学会了能改了就更新
